@@ -14,7 +14,6 @@
 - 👤 Call me: whatever you want, but my friends call me Arian and I go by Nerax, owner of myself 🤪🕵️
 - ⏳ Age: Less than Noah's lifespan
 - 🌌 Born in: a galaxy that includes Earth
-- 🔐 GPG: [your key here] – will fix later
 - 🧠 Joy: when you're reading this and get a little curious 💖
 - ⚡ Fun fact: a tiny bug can mess up the world, but I love that bug enough to poke the ceiling at midnight 😅
 
