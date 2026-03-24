@@ -18,4 +18,4 @@
 - ⚡ Fun fact: a tiny bug can mess up the world, but I love that bug enough to poke the ceiling at midnight 😅
 
 [![](https://img.shields.io/github/followers/NeraxDev.svg?style=social&label=Follow:NeraxDev)](https://github.com/NeraxDev)
-[![Telegram](https://img.shields.io/badge/@OnlyMrArian-Follow-blue?logo=telegram)](https://t.me/OnlyMrArian)
+[![Telegram](https://img.shields.io/badge/@OnlyMrArian-Message-blue?logo=telegram)](https://t.me/OnlyMrArian)
