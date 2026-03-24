@@ -16,5 +16,5 @@
 - 🌌 Born in: a galaxy that includes Earth
 - 🧠 Joy: when you're reading this and get a little curious 💖
 - ⚡ Fun fact: a tiny bug can mess up the world, but I love that bug enough to poke the ceiling at midnight 😅
-[![](https://img.shields.io/github/followers/NeraxDev.svg?style=social&label=Follow:NeraxDev)](https://github.com/NeraxDev) &nbsp;&nbsp;&nbsp;
-[![Telegram](https://img.shields.io/badge/@OnlyMrArian-Message-blue?logo=telegram)](https://t.me/OnlyMrArian)
+<span>[![](https://img.shields.io/github/followers/NeraxDev.svg?style=social&label=Follow:NeraxDev)](https://github.com/NeraxDev)</span>
+<span style="margin-left:10px;">[![Telegram](https://img.shields.io/badge/@OnlyMrArian-Message-blue?logo=telegram)](https://t.me/OnlyMrArian)</span>
