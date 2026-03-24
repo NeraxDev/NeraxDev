@@ -13,7 +13,7 @@ string myRealName = "Arian".ToLower();
 💬 Ask me about: anything you want, but I'll only answer topics like programming, messing with game engines (especially Unity), and modeling (Blender, only mysterious models)
 📫 How to reach me:
 
-Email: ${myRealName}jami86@${googleEmailService}.com
+Email: ${myRealName}jami86@{googleEmailService}.com
 Telegram: @OnlyMrArian (message only if necessary 😃)
 
 👤 Call me: whatever you want, but my friends call me Arian and I go by Nerax, owner of myself 🤪🕵️
